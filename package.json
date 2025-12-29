@@ -82,6 +82,8 @@
     "math",
     "maximum",
     "max",
+    "minimum",
+    "min",
     "range",
     "extremes",
     "domain",
